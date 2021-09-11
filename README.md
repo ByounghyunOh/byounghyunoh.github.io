@@ -1,4 +1,5 @@
 # Personal Portfolio Website
+* CS school project
 To view website, [click here](http:/byounghyunoh.github.io)
 
 
