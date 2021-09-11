@@ -1,5 +1,6 @@
 # Personal Portfolio Website
-To view website, [click here](http://byounghyunoh.com)
+To view website, [click here](http:/byounghyunoh.github.io)
+
 
 ## Feature
 * Lightweight fully responsive static website
